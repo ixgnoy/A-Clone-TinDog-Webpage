@@ -1,5 +1,8 @@
 # TinDog Project
 
+Here's the preview:
+https://main--cerulean-begonia-0fb1b9.netlify.app/
+
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
